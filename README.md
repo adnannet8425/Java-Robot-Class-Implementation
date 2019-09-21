@@ -3,5 +3,9 @@ By Using Robot Class Of Java, I have automated some daily task like is there any
 
 How To Use???
 1) First You have to install java in your System
-2) Then Just Click On The Click On The Batch File It Will Execute Robot Class.
+2) Create batch file just type java <filename> and save it by .bat extension
+2) Then Just Click On That Batch File It Will Execute Robot Class.
+  
+You can also execute as normal java execution 
+on command prompt type java <filename>
 
